@@ -1,42 +1,19 @@
 # Hey, I'm James 👋
 
-I'm a Software Engineering Technician student at Centennial College, focused on learning by building real systems.
+Software Engineering Technician student at Centennial College, learning by building real systems.
 
-## What I'm building
+## Building
+🚀 **Gravity Desk Buddy (GDB)** — a focus and human-development platform.
 
-🚀 **Gravity Desk Buddy (GDB)**  
-A focus and human-development platform designed to help people consistently act on who they are becoming.
+Current flow: Frontend → Express API → PostgreSQL, with focus-session creation and completion updates.
 
-I'm currently building GDB across the frontend, backend, and database layers while developing my software engineering fundamentals.
+## Stack
+JavaScript • Node.js • Express • PostgreSQL • Python • HTML/CSS • Git/GitHub
 
-## Current stack
+## Learning
+REST APIs • database design • Python • web development • software engineering fundamentals
 
-- JavaScript
-- Node.js
-- Express
-- PostgreSQL
-- Python
-- HTML & CSS
-- Git & GitHub
-
-## What I'm currently learning
-
-- Backend development and REST APIs
-- Database design and persistence
-- Python programming
-- Web development
-- Software engineering fundamentals
-
-## Featured project
-
-### Gravity Desk Buddy
-Frontend → Express API → PostgreSQL focus-session flow, with session creation and completion updates.
-
-[View the Gravity Desk Buddy]
-https://github.com/JamesIsaacDev/Gravity-Desk-Buddy-GDB-
+[View Gravity Desk Buddy](https://github.com/JamesIsaacDev/Gravity-Desk-Buddy-GDB-)
 
 ## Contact
-
 Open to software development opportunities and collaborations.
-
-GitHub: @JamesIsaacDev
