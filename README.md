@@ -8,10 +8,10 @@ Software Engineering Technician student at Centennial College, learning by build
 Current system flow: Frontend → Express API → PostgreSQL, with focus-session creation and completion updates.
 
 ## Stack
-JavaScript • Node.js • Express • PostgreSQL • Python • HTML/CSS • Git/GitHub
+JavaScript • Node.js • Express • PostgreSQL • Python • HTML/CSS • Git/GitHub 
 
 ## Learning
-REST APIs • database design • Python • web development • software engineering fundamentals
+REST APIs • database design • Python • web development • software engineering fundamentals • figma
 
 [View Gravity Desk Buddy](https://github.com/JamesIsaacDev/Gravity-Desk-Buddy-GDB-)
 
