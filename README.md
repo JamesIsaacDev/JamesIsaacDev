@@ -3,7 +3,7 @@
 Software Engineering Technician student at Centennial College, learning by building real systems.
 
 ## Building
-🚀 **Gravity Desk Buddy (GDB)** - a focus and human-development platform.
+🚀 **Gravity Desk Buddy (GDB)**: a focus and human-development platform.
 
 Current system flow: Frontend → Express API → PostgreSQL, with focus-session creation and completion updates.
 
